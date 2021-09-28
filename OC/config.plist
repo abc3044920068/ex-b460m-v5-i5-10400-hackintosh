@@ -888,7 +888,7 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -898,7 +898,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string>BA82B032-0F97-4A1E-9162-B51026B19A55</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
